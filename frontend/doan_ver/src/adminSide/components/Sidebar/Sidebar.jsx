@@ -108,7 +108,7 @@ const Sidebar = ({
                                     gap="0.5rem"
                                 >
                                     <Typography variant="h4" fontWeight="bold">
-                                        LaS
+                                        Website bán truyện
                                     </Typography>
                                 </Box>
                                 {!isNonMobile && (
