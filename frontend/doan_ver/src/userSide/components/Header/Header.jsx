@@ -112,7 +112,7 @@ const Header = () => {
                                 </ul>
                             </div>
                             <Button type="primary" onClick={onSetOpen}>
-                                Upload file tên thuốc cần tìm
+                                Upload file truyện cần tìm
                             </Button>
 
                             <div className="nav__icons">
